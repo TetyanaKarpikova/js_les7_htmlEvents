@@ -1,0 +1,16 @@
+
+#slider{
+    width: 500px;
+    height: 230px;  
+}
+#first {
+    display: block;
+    object-fit: cover;
+} 
+
+#slider img {    
+    width: 110px;
+    height: 190px;
+    display: none;
+}
+
